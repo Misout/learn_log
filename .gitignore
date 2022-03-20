@@ -21,3 +21,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# idea project config
+*.iml
+/.idea
+.project
+rebel.xml
+
+# compile target dir
+target
+.settings/
+
+# mac file
+.DS_Store
+*.log
